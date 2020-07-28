@@ -5,7 +5,7 @@ zeroTrainer = ChatterBotCorpusTrainer(chatbot)
 
 
 zeroTrainer.train(
-    "./knowledge/0.yml"
+    "./0.yml"
 )
 
 
